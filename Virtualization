@@ -1,0 +1,16 @@
+What types of problems are solved with virtualization? 
+ Virtualizations can prevent downtime and data loss from servers and it can even lower costs for companies because it helps them perform the same tasks using fewer physical servers
+ 
+ What role does hypervisor play in virtualization? 
+  Hypervisors take your physical resources and divide them up so that virtual environments can use them.
+   Hypervisors take your physical resources and divide them up so that virtual environments can use them.
+    Virtual machines function as a single data finle that can be moved from a computer to another and expected to work the same.
+   
+   In your own words explain the difference between cloud computing and virtualization expanding on your analysis in the prior module. 
+
+   The main concept of cloud computing is the remote use of applications and features that are commonly used on a computer over the internet.
+Both data storage and server processing can be done from anywhere, everything being available on virtual servers. 
+
+Virtualizaton is used to create a virtual infrastructure on a physical device.
+It is a solution that enables you to run more than one operating system and different applications simultaneously on the same machine.
+Cloud computing allows users to access information from another location using the internet and Virtualizatoin Creates a new virtual machine inside a physical computer.
