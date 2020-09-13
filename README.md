@@ -12,11 +12,14 @@ Application software performs specific tasks such as word processing, accounting
 They are the second major category of software.
 An example of an application software would be Google Chrome.
 
-Utility software includes softwares 
+Utility software includes softwares that are used to fix or modify files in a computer, such as any-malwares applications.
+An example would be Avast Antivirus.
 
 
 Explain the purpose of ERP software and provide an example.  
- 
+ The Enterprise Resource Planning (ERP) was created to help big organizatons keep their data in one place. ERP softwares are used by many companies, even though they can be a big investment, most companies find it profitable because it helps the company with security and organization.
+ An example would be Odoo
 
 In addition to the chapter use the following resource: Virtualization and explain the purpose of virtualization. 
+Virtualization is used to create more Virtual Machines inside a single one, for example virtualization software can be used to make a computer perform the task of 5 computers. Virtualization basically uses software to replace hardware.
  
